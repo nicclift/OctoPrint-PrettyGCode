@@ -36,7 +36,6 @@ class PrettyGCodePlugin(
                 "js/OBJLoader.js",
                 "js/OrbitControls.js",  # now the control we vendored
                 "js/Lut.js",
-                "js/dat.gui.js",
                 "js/prettygcode.js",
             ],
             css=["css/prettygcode.css"],
