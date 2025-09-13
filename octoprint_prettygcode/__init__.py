@@ -34,7 +34,7 @@ class PrettyGCodePlugin(
                 "js/Line2.js",
                 "js/LineSegments2.js",
                 "js/OBJLoader.js",
-                "js/camera-controls.js",
+                "js/OrbitControls.js",  # now the control we vendored
                 "js/Lut.js",
                 "js/dat.gui.js",
                 "js/prettygcode.js",
